@@ -105,3 +105,6 @@ public class Carro extends AbstractEntity<Long> {
 		this.cor = cor;
 	}
 }
+
+
+//Comentario teste
